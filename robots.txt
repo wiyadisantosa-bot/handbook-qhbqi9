@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiyadisantosa-bot.github.io/handbook-qhbqi9/sitemap.xml
